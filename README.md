@@ -3,10 +3,10 @@
 
 
 - 💻 Hoje trabalho com suporte técnico em telecomunicações
-- 🌱 Atualmente estou estudando Node.js 
+- 🌱 Atualmente estou estudando Node.js e Python
 - 📫 Contacte-me por: mariafernandaf314@gmail.com 
 - 🧍‍♀ Pronomes: Ela/Dela
-- ⚡ Um fato curioso é que estou descobrindo uma nova carreira ✨
+- ⚡ Um fato curioso é que sou apaixonada com dança, amo estudar e aprender sobre energia e a psicologia humana ✨
 ##
 <div>
   <a href="https://github.com/mariaff30">
@@ -25,7 +25,6 @@
   ##
   
 <div>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mariafernandaf314@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-fernanda-fernandes-971903179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
