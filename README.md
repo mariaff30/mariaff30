@@ -3,7 +3,7 @@
 
 
 - 💻 Hoje trabalho com suporte técnico em telecomunicações
-- 🌱 Atualmente estou estudando Node.js e Python
+- 🌱 Atualmente estou estudando Node.js e React
 - 📫 Contacte-me por: mariafernandaf314@gmail.com 
 - 🧍‍♀ Pronomes: Ela/Dela
 - ⚡ Um fato curioso é que sou apaixonada com dança, amo estudar e aprender sobre energia e a psicologia humana ✨
