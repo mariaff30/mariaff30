@@ -1,8 +1,7 @@
 ### Olá, eu sou a Maria Fernanda 
+**Tenho 20 anos**
 
-
-
-- 💻 Hoje trabalho com suporte técnico em telecomunicações
+- 💻 Hoje trabalho com desenvolvimento em Asp.NET
 - 🌱 Atualmente estou estudando Node.js e React
 - 📫 Contacte-me por: mariafernandaf314@gmail.com 
 - 🧍‍♀ Pronomes: Ela/Dela
