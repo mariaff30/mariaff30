@@ -1,11 +1,11 @@
-### Olá, eu sou a Maria Fernanda 
-**Tenho 20 anos**
+### Hi, I am Maria Fernanda 
+**24y**
 
-- 💻 Hoje trabalho com desenvolvimento em Asp.NET
-- 🌱 Atualmente estou estudando Node.js e React
-- 📫 Contacte-me por: mariafernandaf314@gmail.com 
-- 🧍‍♀ Pronomes: Ela/Dela
-- ⚡ Um fato curioso é que sou apaixonada com dança, amo estudar e aprender sobre energia e a psicologia humana ✨
+- 💻 Today I work in Entity Framework + React Js
+- 🌱 I'm currently studying Python and Architectures
+- 📫 Email: mariafernandaf314@gmail.com 
+- 🧍‍♀ Pronouns: She/She
+- ⚡ A curious fact is that I'm passionate about dance, I love studying and learning about psychology ✨
 ##
 <div>
   <a href="https://github.com/mariaff30">
