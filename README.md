@@ -4,7 +4,7 @@
 - 💻 Today I work in Entity Framework + React Js
 - 🌱 I'm currently studying Python and Architectures
 - 📫 Email: mariafernandaf314@gmail.com 
-- 🧍‍♀ Pronouns: She/She
+- 🧍‍♀ Pronouns: She/Her
 - ⚡ A curious fact is that I'm passionate about dance, I love studying and learning about psychology ✨
 ##
 <div>
