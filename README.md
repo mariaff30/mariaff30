@@ -1,5 +1,5 @@
 ### Hi, I am Maria Fernanda 
-**24y**
+**25y**
 
 - 💻 Today I work in Entity Framework + React Js
 - 🌱 I'm currently studying Python and Architectures
@@ -18,7 +18,6 @@
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" src="https://i.picasion.com/pic91/9a229d219b8822364c928d003c34684a.gif"  width="150" height="150" border="0" alt="https://picasion.com/" />
 </div>
   
   ##
