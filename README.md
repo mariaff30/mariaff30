@@ -10,6 +10,8 @@ Me chamo Maria Fernanda Fernandes, tenho 25 anos e sou de Contagem - MG. Atuo na
             alt="Gmail" 
             title="Entre em contato" 
             src="https://explore-feed.github.com/topics/gmail/gmail.png"
+            width="30px" 
+            style="padding-right: 10px;" 
         />
     </a>
     <a href="https://www.linkedin.com/in/maria-fernanda-fernandes-971903179/">
@@ -17,6 +19,8 @@ Me chamo Maria Fernanda Fernandes, tenho 25 anos e sou de Contagem - MG. Atuo na
             alt="linkedin" 
             title="Perfil Likedin" 
             src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg"
+             width="30px" 
+            style="padding-right: 10px;"
         />
     </a>
 </p>
