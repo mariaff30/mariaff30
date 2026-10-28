@@ -28,7 +28,22 @@ Me chamo Maria Fernanda Fernandes, tenho 25 anos e sou de Contagem - MG. Atuo na
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="CSharp" 
+    title="CSharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -53,14 +68,7 @@ Me chamo Maria Fernanda Fernandes, tenho 25 anos e sou de Contagem - MG. Atuo na
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSharp" 
-    title="CSharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -69,14 +77,7 @@ Me chamo Maria Fernanda Fernandes, tenho 25 anos e sou de Contagem - MG. Atuo na
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Azure" 
